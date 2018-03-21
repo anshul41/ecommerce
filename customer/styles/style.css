@@ -1,0 +1,175 @@
+
+htmlbody, div, span, applet, object, iframe,
+h1, h2, h3, h4,h5, h6, p, blockquote, pre,
+a, abbr79acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption,
+v, span, applet, object, iframe,
+h1, h2, h3, h4,v, span, applet, object, iframe,
+h180cart tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;	
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+display:block;}
+body
+{
+background:black;
+}
+.main_wrapper
+	{background:black;
+	width:1000px;
+	height:auto;
+	margin:auto;
+	
+}
+.header_wrapper{
+	width:1000px;
+	height:150;
+}
+#logo
+{
+margin:auto;	
+width:300px;
+height:150px;
+}
+
+#banner
+{
+	float:right;
+	width:700px;
+	height:150px;
+}
+
+.menubar
+{
+	width:1000px;
+	height:50px;
+	background:grey;
+	color:white;
+	
+}
+#menu{
+	background:grey;
+padding:0;
+margin:0;
+line-height:45px;
+float:left;
+}
+#menu li{
+list-style:none;
+display:inline;
+
+}
+#menu a{text-decoration:none;
+color:white;
+padding:4px;
+margin:0px;
+font-size:17px;
+font-family:COMIC SANS MS;
+}
+#menu a:hover
+{color:orange;
+text-decoration:underline;
+font-weight:bolder;
+}
+#form
+{
+float:right;
+line-height:45px;
+padding-right:14px;}
+#cart
+{float:right;
+	width:790px;
+	height:60px;
+	background:black;
+	color:white;
+}
+	
+
+.content_wrapper{
+	width:1000px;
+	background:black;
+	height:auto;
+	margin:auto;
+}
+ #content_area{
+	
+	background:pink;
+	height:auto;
+}
+#sidebar
+{	width:200px;
+	height:auto;
+	float:right;
+	background:black;
+}
+#sidebar_title
+{color:red;
+font-size:25;
+	padding:15px;
+	padding-left:25px;
+		font-family:arial;
+		background:white;   
+}
+#cats
+{list-style:none;
+background:black;
+	padding-left:25px;
+	font-family:arial;
+	font-size:20;
+}
+#cats a{
+text-decoration:none;
+color:white;
+}
+#cats a:hover
+{font-family:COMIC SANS MS;
+font-weight:bolder;
+}
+#product_box
+{width:790px;
+margin:auto;
+background:pink;
+float:right;	
+}
+h3
+{
+	text-align:center;
+}
+#single_product{
+background:pink;
+float:left;
+margin-left:38px;
+padding:10px;
+}
+#single_product img
+{
+border:2px solid black;
+}
+#footer{
+	width:1000px;
+	height:100px;
+	clear:both;
+	background:grey;
+	margin:auto;
+}
+a{
+	text-decoration:none;
+	
+}
+a:hover{
+font-weight:bolder;	
+}
